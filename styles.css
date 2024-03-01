@@ -12,7 +12,8 @@ header {
 }
 
 nav {
-    background-color: rgb(155, 29, 29);
+    background-color: rgb(74, 74, 110);
+    text-align: center; 
 }
 
 ul {
